@@ -9,3 +9,5 @@ b = a.T
 w,v = la.eig(a*b)
 
 b = w.T
+
+print("     hackers!")
