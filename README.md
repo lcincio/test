@@ -1,6 +1,6 @@
 test
 ====
 
-Just for teting
+Just for testing
 
 I use this for testing.
